@@ -1,0 +1,2071 @@
+[
+  
+{
+  "title": "The Deal",
+  "author": "Joe Hutsko",
+  "isbn": "812575954",
+  "type": "fiction",
+  "total_copies": 15,
+  "available_copies": 15,
+  "genreNames": [
+    "Historical Fiction",
+    "Self-Help"
+  ]
+},
+{
+  "title": "All He Ever Wanted: A Novel",
+  "author": "Anita Shreve",
+  "isbn": "316735736",
+  "type": "reference",
+  "total_copies": 12,
+  "available_copies": 12,
+  "genreNames": [
+    "Historical Fiction"
+  ]
+},
+{
+  "title": "Every Breath You Take : A True Story of Obsession, Revenge, and Murder",
+  "author": "Ann Rule",
+  "isbn": "743439740",
+  "type": "fiction",
+  "total_copies": 4,
+  "available_copies": 4,
+  "genreNames": [
+    "Thriller",
+    "Historical Fiction",
+    "Self-Help",
+    "Biography",
+    "Science Fiction",
+    "Mystery",
+    "Romance",
+    "Cooking"
+  ]
+},
+{
+  "title": "If I Ever Get Back to Georgia, I'm Gonna Nail My Feet to the Ground",
+  "author": "LEWIS GRIZZARD",
+  "isbn": "345372700",
+  "type": "reference",
+  "total_copies": 3,
+  "available_copies": 3,
+  "genreNames": [
+    "Biography",
+    "Self-Help"
+  ]
+},
+{
+  "title": "The Mosquito Coast",
+  "author": "Paul Theroux",
+  "isbn": "380619458",
+  "type": "reference",
+  "total_copies": 17,
+  "available_copies": 17,
+  "genreNames": [
+    "Biography",
+    "Romance",
+    "Horror",
+    "Historical Fiction",
+    "Self-Help",
+    "Thriller"
+  ]
+},
+{
+  "title": "If Love Were Oil, I'd Be About a Quart Low",
+  "author": "Lewis Grizzard",
+  "isbn": "446325805",
+  "type": "fiction",
+  "total_copies": 8,
+  "available_copies": 8,
+  "genreNames": [
+    "Historical Fiction"
+  ]
+},
+{
+  "title": "Goodbye, My Little Ones: The True Story of a Murderous Mother and Five Innocent Victims",
+  "author": "Charles Hickey",
+  "isbn": "451406923",
+  "type": "fiction",
+  "total_copies": 5,
+  "available_copies": 5,
+  "genreNames": [
+    "Historical Fiction",
+    "Biography"
+  ]
+},
+{
+  "title": "The Girl Who Loved Tom Gordon",
+  "author": "Stephen King",
+  "isbn": "671042858",
+  "type": "non_fiction",
+  "total_copies": 13,
+  "available_copies": 13,
+  "genreNames": [
+    "Cooking",
+    "Science Fiction",
+    "Mystery",
+    "Fantasy",
+    "Self-Help",
+    "Biography"
+  ]
+},
+{
+  "title": "Bringing Down the House: The Inside Story of Six M.I.T. Students Who Took Vegas for Millions",
+  "author": "Ben Mezrich",
+  "isbn": "743249992",
+  "type": "fiction",
+  "total_copies": 20,
+  "available_copies": 20,
+  "genreNames": [
+    "Mystery"
+  ]
+},
+{
+  "title": "The Oneprince (The Redaemian Chronicles, Book 1)",
+  "author": "Bill Hand",
+  "isbn": "840734530",
+  "type": "reference",
+  "total_copies": 2,
+  "available_copies": 2,
+  "genreNames": [
+    "Mystery"
+  ]
+},
+{
+  "title": "The Sum of All Fears",
+  "author": "Tom Clancy",
+  "isbn": "425184226",
+  "type": "fiction",
+  "total_copies": 2,
+  "available_copies": 2,
+  "genreNames": [
+    "Mystery",
+    "Biography"
+  ]
+},
+{
+  "title": "Care Packages : Letters to Christopher Reeve from Strangers and Other Friends",
+  "author": "DANA REEVE",
+  "isbn": "375500766",
+  "type": "fiction",
+  "total_copies": 8,
+  "available_copies": 8,
+  "genreNames": [
+    "Historical Fiction",
+    "Self-Help",
+    "Romance",
+    "Fantasy",
+    "Horror",
+    "Cooking",
+    "Thriller",
+    "Biography",
+    "Mystery"
+  ]
+},
+{
+  "title": "O Deus Das Pequenas Coisas",
+  "author": "Roy",
+  "isbn": "9724119378",
+  "type": "fiction",
+  "total_copies": 9,
+  "available_copies": 9,
+  "genreNames": [
+    "Thriller",
+    "Cooking",
+    "Romance"
+  ]
+},
+{
+  "title": "Lady in Green/Minor Indiscretions (Signet Regency Romance)",
+  "author": "Barbara Metzger",
+  "isbn": "451205197",
+  "type": "non_fiction",
+  "total_copies": 16,
+  "available_copies": 16,
+  "genreNames": [
+    "Thriller",
+    "Biography",
+    "Historical Fiction",
+    "Science Fiction",
+    "Mystery",
+    "Self-Help"
+  ]
+},
+{
+  "title": "One Hundred Years of Solitude",
+  "author": "Gabriel Garcia Marquez",
+  "isbn": "60929790",
+  "type": "non_fiction",
+  "total_copies": 1,
+  "available_copies": 1,
+  "genreNames": [
+    "Biography",
+    "Historical Fiction",
+    "Horror",
+    "Science Fiction",
+    "Thriller",
+    "Cooking",
+    "Romance",
+    "Fantasy"
+  ]
+},
+{
+  "title": "Little Altars Everywhere: A Novel",
+  "author": "Rebecca Wells",
+  "isbn": "60976845",
+  "type": "fiction",
+  "total_copies": 9,
+  "available_copies": 9,
+  "genreNames": [
+    "Fantasy",
+    "Horror",
+    "Cooking"
+  ]
+},
+{
+  "title": "Coyote Waits (Joe Leaphorn/Jim Chee Novels)",
+  "author": "Tony Hillerman",
+  "isbn": "61099325",
+  "type": "non_fiction",
+  "total_copies": 4,
+  "available_copies": 4,
+  "genreNames": [
+    "Mystery",
+    "Biography"
+  ]
+},
+{
+  "title": "Before I Say Good-Bye",
+  "author": "Mary Higgins Clark",
+  "isbn": "671004573",
+  "type": "reference",
+  "total_copies": 4,
+  "available_copies": 4,
+  "genreNames": [
+    "Cooking",
+    "Romance",
+    "Biography",
+    "Horror",
+    "Mystery",
+    "Science Fiction",
+    "Fantasy",
+    "Thriller",
+    "Self-Help"
+  ]
+},
+{
+  "title": "Slow Waltz in Cedar Bend",
+  "author": "Robert James Waller",
+  "isbn": "446601640",
+  "type": "non_fiction",
+  "total_copies": 15,
+  "available_copies": 15,
+  "genreNames": [
+    "Self-Help",
+    "Fantasy"
+  ]
+},
+{
+  "title": "Twenty Minute Retreats: Revive Your Spirits in Just Minutes a Day (A Pan Self-discovery Title)",
+  "author": "Rachel Harris",
+  "isbn": "330484516",
+  "type": "fiction",
+  "total_copies": 1,
+  "available_copies": 1,
+  "genreNames": [
+    "Cooking",
+    "Biography",
+    "Thriller",
+    "Fantasy",
+    "Mystery",
+    "Science Fiction",
+    "Historical Fiction",
+    "Romance"
+  ]
+},
+{
+  "title": "Atonement : A Novel",
+  "author": "IAN MCEWAN",
+  "isbn": "038572179X",
+  "type": "reference",
+  "total_copies": 19,
+  "available_copies": 19,
+  "genreNames": [
+    "Science Fiction",
+    "Thriller",
+    "Romance"
+  ]
+},
+{
+  "title": "Next: The Future Just Happened",
+  "author": "Michael Lewis",
+  "isbn": "393020371",
+  "type": "fiction",
+  "total_copies": 14,
+  "available_copies": 14,
+  "genreNames": [
+    "Romance"
+  ]
+},
+{
+  "title": "The Angelic Darkness",
+  "author": "Richard Zimler",
+  "isbn": "1900850303",
+  "type": "reference",
+  "total_copies": 15,
+  "available_copies": 15,
+  "genreNames": [
+    "Thriller",
+    "Fantasy",
+    "Self-Help",
+    "Biography",
+    "Cooking"
+  ]
+},
+{
+  "title": "The Soulbane Stratagem",
+  "author": "Norman Jetmundsen",
+  "isbn": "1903019699",
+  "type": "fiction",
+  "total_copies": 1,
+  "available_copies": 1,
+  "genreNames": [
+    "Mystery",
+    "Horror",
+    "Historical Fiction",
+    "Cooking",
+    "Biography",
+    "Self-Help"
+  ]
+},
+{
+  "title": "Gangster",
+  "author": "Lorenzo Carcaterra",
+  "isbn": "345425294",
+  "type": "fiction",
+  "total_copies": 18,
+  "available_copies": 18,
+  "genreNames": [
+    "Historical Fiction",
+    "Horror",
+    "Biography",
+    "Romance",
+    "Thriller",
+    "Cooking",
+    "Fantasy",
+    "Self-Help",
+    "Mystery",
+    "Science Fiction"
+  ]
+},
+{
+  "title": "Hush",
+  "author": "Anne Frasier",
+  "isbn": "451410319",
+  "type": "reference",
+  "total_copies": 5,
+  "available_copies": 5,
+  "genreNames": [
+    "Historical Fiction",
+    "Fantasy",
+    "Romance"
+  ]
+},
+{
+  "title": "Whisper of Evil (Hooper, Kay. Evil Trilogy.)",
+  "author": "Kay Hooper",
+  "isbn": "553583468",
+  "type": "non_fiction",
+  "total_copies": 16,
+  "available_copies": 16,
+  "genreNames": [
+    "Historical Fiction",
+    "Fantasy",
+    "Horror",
+    "Science Fiction",
+    "Romance"
+  ]
+},
+{
+  "title": "Temor y Temblor",
+  "author": "Soren Kierkegaard",
+  "isbn": "8420639133",
+  "type": "reference",
+  "total_copies": 3,
+  "available_copies": 3,
+  "genreNames": [
+    "Historical Fiction",
+    "Thriller",
+    "Biography",
+    "Fantasy",
+    "Cooking",
+    "Horror",
+    "Science Fiction",
+    "Mystery"
+  ]
+},
+{
+  "title": "Estudios sobre el amor",
+  "author": "Jose Ortega Y Gaset",
+  "isbn": "8476409419",
+  "type": "fiction",
+  "total_copies": 16,
+  "available_copies": 16,
+  "genreNames": [
+    "Biography",
+    "Self-Help",
+    "Thriller",
+    "Mystery",
+    "Horror",
+    "Historical Fiction",
+    "Romance",
+    "Fantasy",
+    "Cooking"
+  ]
+},
+{
+  "title": "Rebecca",
+  "author": "Daphne Du Maurier",
+  "isbn": "380778556",
+  "type": "reference",
+  "total_copies": 6,
+  "available_copies": 6,
+  "genreNames": [
+    "Romance",
+    "Self-Help"
+  ]
+},
+{
+  "title": "Scarlet Letter",
+  "author": "Nathaniel Hawthorne",
+  "isbn": "451525221",
+  "type": "fiction",
+  "total_copies": 17,
+  "available_copies": 17,
+  "genreNames": [
+    "Thriller"
+  ]
+},
+{
+  "title": "Keep It Simple: And Get More Out of Life",
+  "author": "Nick Page",
+  "isbn": "2740230",
+  "type": "reference",
+  "total_copies": 5,
+  "available_copies": 5,
+  "genreNames": [
+    "Romance",
+    "Historical Fiction",
+    "Biography",
+    "Horror"
+  ]
+},
+{
+  "title": "Diary of a Mad Mom-To-Be",
+  "author": "Laura Wolf",
+  "isbn": "385336772",
+  "type": "reference",
+  "total_copies": 17,
+  "available_copies": 17,
+  "genreNames": [
+    "Biography",
+    "Historical Fiction",
+    "Self-Help",
+    "Science Fiction",
+    "Thriller",
+    "Cooking",
+    "Romance"
+  ]
+},
+{
+  "title": "Locked in Time (Laurel Leaf Books)",
+  "author": "LOIS DUNCAN",
+  "isbn": "440949424",
+  "type": "fiction",
+  "total_copies": 12,
+  "available_copies": 12,
+  "genreNames": [
+    "Biography",
+    "Cooking",
+    "Fantasy",
+    "Science Fiction",
+    "Romance",
+    "Thriller",
+    "Horror"
+  ]
+},
+{
+  "title": "Contact",
+  "author": "Susan Grant",
+  "isbn": "505524996",
+  "type": "reference",
+  "total_copies": 2,
+  "available_copies": 2,
+  "genreNames": [
+    "Biography",
+    "Cooking",
+    "Horror",
+    "Fantasy",
+    "Mystery",
+    "Historical Fiction",
+    "Science Fiction",
+    "Self-Help",
+    "Romance"
+  ]
+},
+{
+  "title": "The Brimstone Wedding",
+  "author": "Barbara Vine",
+  "isbn": "140252800",
+  "type": "reference",
+  "total_copies": 18,
+  "available_copies": 18,
+  "genreNames": [
+    "Science Fiction",
+    "Historical Fiction",
+    "Self-Help",
+    "Mystery",
+    "Fantasy",
+    "Thriller",
+    "Romance",
+    "Horror",
+    "Cooking"
+  ]
+},
+{
+  "title": "The Catswold Portal",
+  "author": "Shirley Rousseau Murphy",
+  "isbn": "451452755",
+  "type": "reference",
+  "total_copies": 8,
+  "available_copies": 8,
+  "genreNames": [
+    "Science Fiction",
+    "Cooking",
+    "Thriller"
+  ]
+},
+{
+  "title": "Through Wolf's Eyes (Wolf)",
+  "author": "Jane Lindskold",
+  "isbn": "812575482",
+  "type": "fiction",
+  "total_copies": 4,
+  "available_copies": 4,
+  "genreNames": [
+    "Science Fiction",
+    "Cooking",
+    "Historical Fiction",
+    "Romance",
+    "Biography",
+    "Thriller"
+  ]
+},
+{
+  "title": "Puerto Vallarta Squeeze",
+  "author": "Robert James Waller",
+  "isbn": "044651747X",
+  "type": "reference",
+  "total_copies": 12,
+  "available_copies": 12,
+  "genreNames": [
+    "Science Fiction"
+  ]
+},
+{
+  "title": "Tree Grows In Brooklyn",
+  "author": "Betty Smith",
+  "isbn": "60801263",
+  "type": "fiction",
+  "total_copies": 18,
+  "available_copies": 18,
+  "genreNames": [
+    "Science Fiction",
+    "Mystery",
+    "Horror",
+    "Fantasy",
+    "Cooking"
+  ]
+},
+{
+  "title": "Cybill Disobedience: How I Survived Beauty Pageants, Elvis, Sex, Bruce Willis, Lies, Marriage, Motherhood, Hollywood, and the Irrepressible Urge to Say What I Think",
+  "author": "Cybill Shepherd",
+  "isbn": "61030147",
+  "type": "fiction",
+  "total_copies": 3,
+  "available_copies": 3,
+  "genreNames": [
+    "Mystery",
+    "Historical Fiction",
+    "Science Fiction",
+    "Fantasy",
+    "Romance",
+    "Cooking",
+    "Self-Help",
+    "Biography",
+    "Horror",
+    "Thriller"
+  ]
+},
+{
+  "title": "Snow Angels",
+  "author": "Stewart O'Nan",
+  "isbn": "140250964",
+  "type": "reference",
+  "total_copies": 12,
+  "available_copies": 12,
+  "genreNames": [
+    "Science Fiction",
+    "Fantasy",
+    "Horror"
+  ]
+},
+{
+  "title": "Wish You Well",
+  "author": "David Baldacci",
+  "isbn": "446527165",
+  "type": "non_fiction",
+  "total_copies": 15,
+  "available_copies": 15,
+  "genreNames": [
+    "Science Fiction",
+    "Fantasy",
+    "Horror",
+    "Self-Help",
+    "Mystery"
+  ]
+},
+{
+  "title": "The Hitchhiker's Guide to the Galaxy",
+  "author": "Douglas Adams",
+  "isbn": "671461494",
+  "type": "fiction",
+  "total_copies": 14,
+  "available_copies": 14,
+  "genreNames": [
+    "Horror",
+    "Biography",
+    "Cooking",
+    "Historical Fiction",
+    "Romance",
+    "Thriller"
+  ]
+},
+{
+  "title": "Crow Lake (Today Show Book Club #7)",
+  "author": "Mary Lawson",
+  "isbn": "385337639",
+  "type": "reference",
+  "total_copies": 13,
+  "available_copies": 13,
+  "genreNames": [
+    "Fantasy",
+    "Horror",
+    "Historical Fiction",
+    "Mystery",
+    "Biography",
+    "Self-Help",
+    "Science Fiction",
+    "Cooking",
+    "Thriller"
+  ]
+},
+{
+  "title": "My Antonia",
+  "author": "Willa Cather",
+  "isbn": "039575514X",
+  "type": "non_fiction",
+  "total_copies": 6,
+  "available_copies": 6,
+  "genreNames": [
+    "Romance",
+    "Science Fiction",
+    "Fantasy",
+    "Thriller",
+    "Horror",
+    "Cooking",
+    "Biography",
+    "Historical Fiction"
+  ]
+},
+{
+  "title": "Pen Pals",
+  "author": "Olivia Goldsmith",
+  "isbn": "451206673",
+  "type": "non_fiction",
+  "total_copies": 6,
+  "available_copies": 6,
+  "genreNames": [
+    "Historical Fiction",
+    "Fantasy"
+  ]
+},
+{
+  "title": "Bridget Jones's Diary",
+  "author": "Helen Fielding",
+  "isbn": "330332775",
+  "type": "fiction",
+  "total_copies": 9,
+  "available_copies": 9,
+  "genreNames": [
+    "Science Fiction",
+    "Historical Fiction",
+    "Biography",
+    "Mystery"
+  ]
+},
+{
+  "title": "Pride and Prejudice (Dover Thrift Editions)",
+  "author": "Jane Austen",
+  "isbn": "486284735",
+  "type": "fiction",
+  "total_copies": 17,
+  "available_copies": 17,
+  "genreNames": [
+    "Science Fiction",
+    "Mystery",
+    "Fantasy",
+    "Historical Fiction",
+    "Cooking",
+    "Horror",
+    "Biography",
+    "Romance"
+  ]
+},
+{
+  "title": "EYE ON CRIME: HARDY BOYS #153",
+  "author": "Franklin W. Dixon",
+  "isbn": "671021745",
+  "type": "non_fiction",
+  "total_copies": 13,
+  "available_copies": 13,
+  "genreNames": [
+    "Biography",
+    "Romance",
+    "Horror",
+    "Cooking",
+    "Historical Fiction",
+    "Self-Help",
+    "Fantasy"
+  ]
+},
+{
+  "title": "Skin And Bones",
+  "author": "Franklin W. Dixon",
+  "isbn": "671047612",
+  "type": "non_fiction",
+  "total_copies": 1,
+  "available_copies": 1,
+  "genreNames": [
+    "Horror",
+    "Cooking"
+  ]
+},
+{
+  "title": "LAW OF THE JUNGLE (HARDY BOYS CASE FILE 105) : LAW OF THE JUNGLE (Hardy Boys, The)",
+  "author": "Franklin W. Dixon",
+  "isbn": "671504282",
+  "type": "reference",
+  "total_copies": 20,
+  "available_copies": 20,
+  "genreNames": [
+    "Mystery",
+    "Fantasy",
+    "Self-Help",
+    "Cooking",
+    "Historical Fiction",
+    "Thriller",
+    "Horror"
+  ]
+},
+{
+  "title": "The Cat Who Came to Breakfast (Cat Who... (Hardcover))",
+  "author": "Lilian Jackson Braun",
+  "isbn": "399138684",
+  "type": "reference",
+  "total_copies": 16,
+  "available_copies": 16,
+  "genreNames": [
+    "Romance",
+    "Biography"
+  ]
+},
+{
+  "title": "If Singleness Is a Gift, What's the Return Policy?",
+  "author": "Holly Virden",
+  "isbn": "785263292",
+  "type": "reference",
+  "total_copies": 4,
+  "available_copies": 4,
+  "genreNames": [
+    "Cooking",
+    "Thriller",
+    "Historical Fiction",
+    "Horror"
+  ]
+},
+{
+  "title": "Always Daddy's Girl: Understanding Your Father's Impact on Who You Are",
+  "author": "H. Norman Wright",
+  "isbn": "830714014",
+  "type": "non_fiction",
+  "total_copies": 4,
+  "available_copies": 4,
+  "genreNames": [
+    "Biography",
+    "Romance",
+    "Historical Fiction",
+    "Cooking"
+  ]
+},
+{
+  "title": "Night Mare (Xanth Novels (Paperback))",
+  "author": "Piers Anthony",
+  "isbn": "345354931",
+  "type": "fiction",
+  "total_copies": 4,
+  "available_copies": 4,
+  "genreNames": [
+    "Science Fiction",
+    "Biography",
+    "Romance",
+    "Self-Help"
+  ]
+},
+{
+  "title": "The Martian Chronicles",
+  "author": "RAY BRADBURY",
+  "isbn": "553278223",
+  "type": "reference",
+  "total_copies": 17,
+  "available_copies": 17,
+  "genreNames": [
+    "Science Fiction",
+    "Cooking",
+    "Self-Help",
+    "Mystery",
+    "Biography"
+  ]
+},
+{
+  "title": "Kabale Und Liebe",
+  "author": "Schiller",
+  "isbn": "3150000335",
+  "type": "reference",
+  "total_copies": 19,
+  "available_copies": 19,
+  "genreNames": [
+    "Fantasy",
+    "Horror",
+    "Romance",
+    "Mystery",
+    "Cooking",
+    "Thriller",
+    "Science Fiction",
+    "Self-Help",
+    "Historical Fiction",
+    "Biography"
+  ]
+},
+{
+  "title": "Der illustrierte Mann. ErzÃ?Â¤hlungen.",
+  "author": "Ray Bradbury",
+  "isbn": "3257203659",
+  "type": "non_fiction",
+  "total_copies": 16,
+  "available_copies": 16,
+  "genreNames": [
+    "Romance",
+    "Cooking",
+    "Historical Fiction",
+    "Mystery"
+  ]
+},
+{
+  "title": "Der KÃ?Â¶nig in Gelb.",
+  "author": "Raymond Chandler",
+  "isbn": "3257207522",
+  "type": "fiction",
+  "total_copies": 9,
+  "available_copies": 9,
+  "genreNames": [
+    "Mystery",
+    "Thriller",
+    "Historical Fiction",
+    "Biography",
+    "Romance",
+    "Science Fiction",
+    "Cooking",
+    "Horror",
+    "Fantasy",
+    "Self-Help"
+  ]
+},
+{
+  "title": "Fahrenheit 451",
+  "author": "Ray Bradbury",
+  "isbn": "3257208626",
+  "type": "reference",
+  "total_copies": 12,
+  "available_copies": 12,
+  "genreNames": [
+    "Historical Fiction",
+    "Romance",
+    "Science Fiction",
+    "Biography"
+  ]
+},
+{
+  "title": "Die Mars- Chroniken. Roman in ErzÃ?Â¤hlungen.",
+  "author": "Ray Bradbury",
+  "isbn": "3257208634",
+  "type": "reference",
+  "total_copies": 1,
+  "available_copies": 1,
+  "genreNames": [
+    "Self-Help",
+    "Biography",
+    "Romance",
+    "Thriller",
+    "Cooking",
+    "Fantasy",
+    "Mystery",
+    "Horror",
+    "Science Fiction"
+  ]
+},
+{
+  "title": "Das BÃ?Â¶se kommt auf leisen Sohlen.",
+  "author": "Ray Bradbury",
+  "isbn": "3257208669",
+  "type": "non_fiction",
+  "total_copies": 2,
+  "available_copies": 2,
+  "genreNames": [
+    "Historical Fiction",
+    "Biography",
+    "Thriller",
+    "Romance",
+    "Mystery",
+    "Self-Help",
+    "Science Fiction"
+  ]
+},
+{
+  "title": "LÃ?Â¶wenzahnwein. Roman.",
+  "author": "Ray Bradbury",
+  "isbn": "3257210450",
+  "type": "non_fiction",
+  "total_copies": 20,
+  "available_copies": 20,
+  "genreNames": [
+    "Mystery",
+    "Fantasy",
+    "Horror",
+    "Cooking",
+    "Historical Fiction",
+    "Romance",
+    "Biography",
+    "Science Fiction"
+  ]
+},
+{
+  "title": "Das Kind von morgen. ErzÃ?Â¤hlungen.",
+  "author": "Ray Bradbury",
+  "isbn": "3257212054",
+  "type": "non_fiction",
+  "total_copies": 5,
+  "available_copies": 5,
+  "genreNames": [
+    "Historical Fiction",
+    "Cooking",
+    "Mystery",
+    "Fantasy",
+    "Science Fiction",
+    "Biography"
+  ]
+},
+{
+  "title": "Die Mechanismen der Freude. ErzÃ?Â¤hlungen.",
+  "author": "Ray Bradbury",
+  "isbn": "3257212429",
+  "type": "non_fiction",
+  "total_copies": 6,
+  "available_copies": 6,
+  "genreNames": [
+    "Historical Fiction",
+    "Biography",
+    "Cooking",
+    "Science Fiction",
+    "Self-Help"
+  ]
+},
+{
+  "title": "Familientreffen. ErzÃ?Â¤hlungen.",
+  "author": "Ray Bradbury",
+  "isbn": "3257214154",
+  "type": "reference",
+  "total_copies": 9,
+  "available_copies": 9,
+  "genreNames": [
+    "Horror",
+    "Romance",
+    "Cooking",
+    "Self-Help",
+    "Biography",
+    "Fantasy",
+    "Historical Fiction"
+  ]
+},
+{
+  "title": "Der Tod kommt schnell in Mexico. ErzÃ?Â¤hlungen.",
+  "author": "Ray Bradbury",
+  "isbn": "3257216416",
+  "type": "fiction",
+  "total_copies": 19,
+  "available_copies": 19,
+  "genreNames": [
+    "Self-Help",
+    "Mystery",
+    "Historical Fiction",
+    "Romance",
+    "Fantasy",
+    "Horror",
+    "Cooking"
+  ]
+},
+{
+  "title": "Veronika Deschliesst Zu Sterben / Vernika Decides to Die",
+  "author": "Paolo Coelho",
+  "isbn": "3257233051",
+  "type": "reference",
+  "total_copies": 1,
+  "available_copies": 1,
+  "genreNames": [
+    "Romance",
+    "Biography",
+    "Self-Help",
+    "Mystery",
+    "Historical Fiction",
+    "Cooking"
+  ]
+},
+{
+  "title": "Die Liebe in Den Zelten",
+  "author": "Gabriel Garcia Marquez",
+  "isbn": "342311360X",
+  "type": "fiction",
+  "total_copies": 10,
+  "available_copies": 10,
+  "genreNames": [
+    "Mystery"
+  ]
+},
+{
+  "title": "Die Klone der Joanna May. Roman.",
+  "author": "Fay Weldon",
+  "isbn": "3423116714",
+  "type": "reference",
+  "total_copies": 15,
+  "available_copies": 15,
+  "genreNames": [
+    "Cooking",
+    "Horror",
+    "Fantasy",
+    "Thriller",
+    "Self-Help",
+    "Biography"
+  ]
+},
+{
+  "title": "Ist mein Hintern wirklich so dick? Tagebuch einer empfindsamen Frau.",
+  "author": "Arabella Weir",
+  "isbn": "3423241489",
+  "type": "fiction",
+  "total_copies": 4,
+  "available_copies": 4,
+  "genreNames": [
+    "Self-Help",
+    "Cooking",
+    "Thriller",
+    "Mystery",
+    "Horror",
+    "Fantasy",
+    "Historical Fiction"
+  ]
+},
+{
+  "title": "Haifischfrauen.",
+  "author": "Kiana Davenport",
+  "isbn": "3426605686",
+  "type": "non_fiction",
+  "total_copies": 18,
+  "available_copies": 18,
+  "genreNames": [
+    "Self-Help",
+    "Thriller",
+    "Historical Fiction"
+  ]
+},
+{
+  "title": "Die Cappuccino- Jahre. Aus dem Tagebuch des Adrian Mole.",
+  "author": "Sue Townsend",
+  "isbn": "3453212150",
+  "type": "non_fiction",
+  "total_copies": 1,
+  "available_copies": 1,
+  "genreNames": [
+    "Historical Fiction",
+    "Romance",
+    "Cooking",
+    "Thriller",
+    "Fantasy",
+    "Biography",
+    "Horror"
+  ]
+},
+{
+  "title": "Schwarzer Tee mit drei StÃ¼ck Zucker",
+  "author": "Renan Demirkan",
+  "isbn": "3462021095",
+  "type": "non_fiction",
+  "total_copies": 3,
+  "available_copies": 3,
+  "genreNames": [
+    "Romance",
+    "Fantasy",
+    "Biography",
+    "Thriller",
+    "Historical Fiction",
+    "Self-Help"
+  ]
+},
+{
+  "title": "QuerschÃ?Â¼sse - Downsize This!",
+  "author": "Michael Moore",
+  "isbn": "3492045642",
+  "type": "non_fiction",
+  "total_copies": 5,
+  "available_copies": 5,
+  "genreNames": [
+    "Thriller",
+    "Biography",
+    "Fantasy",
+    "Romance",
+    "Historical Fiction",
+    "Self-Help",
+    "Cooking",
+    "Science Fiction",
+    "Mystery"
+  ]
+},
+{
+  "title": "Die Korrekturen.",
+  "author": "Jonathan Franzen",
+  "isbn": "3498020862",
+  "type": "non_fiction",
+  "total_copies": 13,
+  "available_copies": 13,
+  "genreNames": [
+    "Biography",
+    "Horror",
+    "Thriller",
+    "Science Fiction",
+    "Fantasy",
+    "Romance",
+    "Cooking",
+    "Historical Fiction",
+    "Self-Help",
+    "Mystery"
+  ]
+},
+{
+  "title": "Neun ErzÃ?Â¤hlungen.",
+  "author": "Jerome D. Salinger",
+  "isbn": "3499110695",
+  "type": "non_fiction",
+  "total_copies": 9,
+  "available_copies": 9,
+  "genreNames": [
+    "Romance",
+    "Biography",
+    "Thriller",
+    "Science Fiction"
+  ]
+},
+{
+  "title": "Hebt den Dachbalken hoch, Zimmerleute / Seymour wird vorgestellt.",
+  "author": "Jerome D. Salinger",
+  "isbn": "3499151502",
+  "type": "non_fiction",
+  "total_copies": 18,
+  "available_copies": 18,
+  "genreNames": [
+    "Romance"
+  ]
+},
+{
+  "title": "Ulysses (Ã?Â?bersetzg. WollschlÃ?Â¤ger). ( Neue Folge, 100).",
+  "author": "James Joyce",
+  "isbn": "3518111000",
+  "type": "reference",
+  "total_copies": 12,
+  "available_copies": 12,
+  "genreNames": [
+    "Biography",
+    "Fantasy",
+    "Romance",
+    "Historical Fiction",
+    "Horror",
+    "Thriller"
+  ]
+},
+{
+  "title": "Eine ganz normale AffÃ?Â¤re.",
+  "author": "Joanna Trollope",
+  "isbn": "3548254268",
+  "type": "fiction",
+  "total_copies": 13,
+  "available_copies": 13,
+  "genreNames": [
+    "Mystery",
+    "Biography",
+    "Fantasy",
+    "Thriller",
+    "Horror",
+    "Cooking",
+    "Romance",
+    "Historical Fiction",
+    "Self-Help"
+  ]
+},
+{
+  "title": "Das Intimleben des Adrian Mole, 13 3/4 Jahre. cbt. ( Ab 14 J.).",
+  "author": "Sue Townsend",
+  "isbn": "3570300099",
+  "type": "reference",
+  "total_copies": 20,
+  "available_copies": 20,
+  "genreNames": [
+    "Thriller",
+    "Fantasy",
+    "Science Fiction",
+    "Historical Fiction",
+    "Biography",
+    "Mystery",
+    "Cooking"
+  ]
+},
+{
+  "title": "Das Buch der lÃ?Â¤cherlichen Liebe.",
+  "author": "Milan Kundera",
+  "isbn": "3596292646",
+  "type": "fiction",
+  "total_copies": 1,
+  "available_copies": 1,
+  "genreNames": [
+    "Horror",
+    "Romance",
+    "Science Fiction",
+    "Fantasy",
+    "Mystery",
+    "Biography",
+    "Historical Fiction",
+    "Cooking"
+  ]
+},
+{
+  "title": "The God of Small Things",
+  "author": "Arundhati Roy",
+  "isbn": "60977493",
+  "type": "reference",
+  "total_copies": 13,
+  "available_copies": 13,
+  "genreNames": [
+    "Fantasy",
+    "Mystery",
+    "Romance",
+    "Science Fiction",
+    "Horror",
+    "Cooking",
+    "Self-Help"
+  ]
+},
+{
+  "title": "The James Dean Affair: A Neil Gulliver &amp; Stevie Marriner Novel",
+  "author": "Robert S. Levinson",
+  "isbn": "312872682",
+  "type": "reference",
+  "total_copies": 16,
+  "available_copies": 16,
+  "genreNames": [
+    "Cooking",
+    "Historical Fiction",
+    "Fantasy",
+    "Mystery"
+  ]
+},
+{
+  "title": "The Big Bad Wolf: A Novel",
+  "author": "James Patterson",
+  "isbn": "316602906",
+  "type": "non_fiction",
+  "total_copies": 15,
+  "available_copies": 15,
+  "genreNames": [
+    "Self-Help",
+    "Cooking",
+    "Biography",
+    "Horror",
+    "Historical Fiction",
+    "Fantasy",
+    "Mystery",
+    "Thriller"
+  ]
+},
+{
+  "title": "Four Blind Mice",
+  "author": "James Patterson",
+  "isbn": "316693006",
+  "type": "non_fiction",
+  "total_copies": 17,
+  "available_copies": 17,
+  "genreNames": [
+    "Fantasy",
+    "Romance",
+    "Thriller",
+    "Historical Fiction",
+    "Horror",
+    "Science Fiction",
+    "Mystery",
+    "Biography",
+    "Cooking"
+  ]
+},
+{
+  "title": "Private Screening",
+  "author": "Richard North Patterson",
+  "isbn": "345311396",
+  "type": "fiction",
+  "total_copies": 15,
+  "available_copies": 15,
+  "genreNames": [
+    "Self-Help",
+    "Historical Fiction",
+    "Fantasy",
+    "Mystery",
+    "Romance",
+    "Biography",
+    "Cooking"
+  ]
+},
+{
+  "title": "Congo",
+  "author": "Michael Crichton",
+  "isbn": "345378490",
+  "type": "fiction",
+  "total_copies": 20,
+  "available_copies": 20,
+  "genreNames": [
+    "Historical Fiction",
+    "Biography",
+    "Fantasy",
+    "Science Fiction",
+    "Thriller",
+    "Self-Help",
+    "Mystery",
+    "Horror"
+  ]
+},
+{
+  "title": "Protect and Defend",
+  "author": "Richard North Patterson",
+  "isbn": "345404793",
+  "type": "reference",
+  "total_copies": 7,
+  "available_copies": 7,
+  "genreNames": [
+    "Cooking",
+    "Horror",
+    "Biography",
+    "Romance"
+  ]
+},
+{
+  "title": "The Tall Pine Polka",
+  "author": "Lorna Landvik",
+  "isbn": "345433173",
+  "type": "fiction",
+  "total_copies": 5,
+  "available_copies": 5,
+  "genreNames": [
+    "Romance",
+    "Horror",
+    "Self-Help",
+    "Mystery",
+    "Thriller",
+    "Science Fiction",
+    "Cooking",
+    "Biography",
+    "Historical Fiction",
+    "Fantasy"
+  ]
+},
+{
+  "title": "Memoirs of a Geisha",
+  "author": "Arthur Golden",
+  "isbn": "375400117",
+  "type": "non_fiction",
+  "total_copies": 1,
+  "available_copies": 1,
+  "genreNames": [
+    "Thriller",
+    "Mystery",
+    "Historical Fiction"
+  ]
+},
+{
+  "title": "Plainsong (Vintage Contemporaries)",
+  "author": "KENT HARUF",
+  "isbn": "375705856",
+  "type": "reference",
+  "total_copies": 6,
+  "available_copies": 6,
+  "genreNames": [
+    "Science Fiction",
+    "Thriller",
+    "Romance",
+    "Biography",
+    "Fantasy",
+    "Historical Fiction",
+    "Self-Help",
+    "Horror",
+    "Mystery"
+  ]
+},
+{
+  "title": "Body of Evidence (Kay Scarpetta Mysteries (Paperback))",
+  "author": "Patricia D. Cornwell",
+  "isbn": "380717018",
+  "type": "non_fiction",
+  "total_copies": 1,
+  "available_copies": 1,
+  "genreNames": [
+    "Romance",
+    "Horror",
+    "Cooking",
+    "Biography",
+    "Science Fiction"
+  ]
+},
+{
+  "title": "All That Remains (Kay Scarpetta Mysteries (Paperback))",
+  "author": "Patricia D. Cornwell",
+  "isbn": "380718332",
+  "type": "fiction",
+  "total_copies": 9,
+  "available_copies": 9,
+  "genreNames": [
+    "Mystery",
+    "Historical Fiction",
+    "Self-Help",
+    "Horror",
+    "Science Fiction",
+    "Romance"
+  ]
+},
+{
+  "title": "The Case of the Lost Look-Alike (An Avon Camelot Book)",
+  "author": "Carol J. Farley",
+  "isbn": "380754509",
+  "type": "reference",
+  "total_copies": 19,
+  "available_copies": 19,
+  "genreNames": [
+    "Fantasy",
+    "Thriller",
+    "Historical Fiction",
+    "Biography",
+    "Mystery",
+    "Horror",
+    "Cooking"
+  ]
+},
+{
+  "title": "Petals on the River",
+  "author": "Kathleen E. Woodiwiss",
+  "isbn": "038076654X",
+  "type": "reference",
+  "total_copies": 8,
+  "available_copies": 8,
+  "genreNames": [
+    "Fantasy",
+    "Cooking",
+    "Thriller",
+    "Self-Help",
+    "Science Fiction",
+    "Historical Fiction"
+  ]
+},
+{
+  "title": "The Elusive Flame",
+  "author": "Kathleen E. Woodiwiss",
+  "isbn": "380807866",
+  "type": "fiction",
+  "total_copies": 20,
+  "available_copies": 20,
+  "genreNames": [
+    "Biography",
+    "Fantasy",
+    "Romance",
+    "Mystery",
+    "Horror",
+    "Self-Help",
+    "Science Fiction",
+    "Thriller"
+  ]
+},
+{
+  "title": "Legacy of Silence",
+  "author": "Belva Plain",
+  "isbn": "385316895",
+  "type": "reference",
+  "total_copies": 11,
+  "available_copies": 11,
+  "genreNames": [
+    "Mystery",
+    "Romance",
+    "Fantasy",
+    "Biography",
+    "Self-Help",
+    "Science Fiction",
+    "Historical Fiction",
+    "Cooking",
+    "Horror",
+    "Thriller"
+  ]
+},
+{
+  "title": "The Brethren",
+  "author": "JOHN GRISHAM",
+  "isbn": "385497466",
+  "type": "reference",
+  "total_copies": 12,
+  "available_copies": 12,
+  "genreNames": [
+    "Thriller",
+    "Cooking",
+    "Self-Help"
+  ]
+},
+{
+  "title": "The King of Torts",
+  "author": "John Grisham",
+  "isbn": "385508042",
+  "type": "reference",
+  "total_copies": 13,
+  "available_copies": 13,
+  "genreNames": [
+    "Science Fiction",
+    "Mystery",
+    "Thriller"
+  ]
+},
+{
+  "title": "The Curious Incident of the Dog in the Night-Time : A Novel",
+  "author": "MARK HADDON",
+  "isbn": "385509456",
+  "type": "fiction",
+  "total_copies": 20,
+  "available_copies": 20,
+  "genreNames": [
+    "Cooking",
+    "Historical Fiction",
+    "Self-Help",
+    "Thriller",
+    "Fantasy"
+  ]
+},
+{
+  "title": "Bleachers",
+  "author": "John Grisham",
+  "isbn": "385511612",
+  "type": "fiction",
+  "total_copies": 18,
+  "available_copies": 18,
+  "genreNames": [
+    "Mystery",
+    "Horror"
+  ]
+},
+{
+  "title": "Sisterhood of the Traveling Pants",
+  "author": "ANN BRASHARES",
+  "isbn": "385730586",
+  "type": "fiction",
+  "total_copies": 17,
+  "available_copies": 17,
+  "genreNames": [
+    "Self-Help"
+  ]
+},
+{
+  "title": "Only Love (Magical Love)",
+  "author": "Erich Segal",
+  "isbn": "425164403",
+  "type": "fiction",
+  "total_copies": 4,
+  "available_copies": 4,
+  "genreNames": [
+    "Biography",
+    "Romance",
+    "Fantasy",
+    "Self-Help",
+    "Horror",
+    "Science Fiction"
+  ]
+},
+{
+  "title": "All or Nothing (Wheeler Large Print Books)",
+  "author": "Elizabeth Adler",
+  "isbn": "440234964",
+  "type": "reference",
+  "total_copies": 18,
+  "available_copies": 18,
+  "genreNames": [
+    "Historical Fiction",
+    "Mystery",
+    "Science Fiction",
+    "Romance",
+    "Biography",
+    "Horror"
+  ]
+},
+{
+  "title": "Roses Are Red (Alex Cross Novels)",
+  "author": "James Patterson",
+  "isbn": "446605484",
+  "type": "fiction",
+  "total_copies": 6,
+  "available_copies": 6,
+  "genreNames": [
+    "Science Fiction",
+    "Mystery",
+    "Romance",
+    "Fantasy"
+  ]
+},
+{
+  "title": "The Rescue",
+  "author": "Nicholas Sparks",
+  "isbn": "446610399",
+  "type": "non_fiction",
+  "total_copies": 4,
+  "available_copies": 4,
+  "genreNames": [
+    "Science Fiction",
+    "Fantasy",
+    "Historical Fiction",
+    "Biography",
+    "Mystery",
+    "Horror",
+    "Cooking"
+  ]
+},
+{
+  "title": "Manhattan Hunt Club",
+  "author": "JOHN SAUL",
+  "isbn": "449006522",
+  "type": "reference",
+  "total_copies": 18,
+  "available_copies": 18,
+  "genreNames": [
+    "Mystery",
+    "Fantasy",
+    "Cooking",
+    "Horror",
+    "Self-Help"
+  ]
+},
+{
+  "title": "Patty Jane's House of Curl (Ballantine Reader's Circle)",
+  "author": "LORNA LANDVIK",
+  "isbn": "449911004",
+  "type": "non_fiction",
+  "total_copies": 15,
+  "available_copies": 15,
+  "genreNames": [
+    "Thriller",
+    "Horror",
+    "Self-Help",
+    "Romance"
+  ]
+},
+{
+  "title": "Pet Sematary",
+  "author": "Stephen King",
+  "isbn": "451162072",
+  "type": "fiction",
+  "total_copies": 2,
+  "available_copies": 2,
+  "genreNames": [
+    "Fantasy",
+    "Biography",
+    "Self-Help",
+    "Horror"
+  ]
+},
+{
+  "title": "Silent Snow",
+  "author": "Steve Thayer",
+  "isbn": "451186648",
+  "type": "fiction",
+  "total_copies": 10,
+  "available_copies": 10,
+  "genreNames": [
+    "Romance",
+    "Self-Help",
+    "Horror",
+    "Thriller",
+    "Historical Fiction",
+    "Biography",
+    "Mystery",
+    "Cooking"
+  ]
+},
+{
+  "title": "Girl with a Pearl Earring",
+  "author": "Tracy Chevalier",
+  "isbn": "452282152",
+  "type": "reference",
+  "total_copies": 20,
+  "available_copies": 20,
+  "genreNames": [
+    "Fantasy",
+    "Science Fiction"
+  ]
+},
+{
+  "title": "Summer of Storms",
+  "author": "Judith Kelman",
+  "isbn": "051513290X",
+  "type": "non_fiction",
+  "total_copies": 12,
+  "available_copies": 12,
+  "genreNames": [
+    "Science Fiction",
+    "Thriller",
+    "Self-Help",
+    "Biography",
+    "Romance",
+    "Mystery",
+    "Horror",
+    "Fantasy",
+    "Cooking",
+    "Historical Fiction"
+  ]
+},
+{
+  "title": "The Patient",
+  "author": "Michael Palmer",
+  "isbn": "553580388",
+  "type": "fiction",
+  "total_copies": 6,
+  "available_copies": 6,
+  "genreNames": [
+    "Horror",
+    "Biography",
+    "Fantasy",
+    "Thriller",
+    "Science Fiction",
+    "Romance",
+    "Historical Fiction",
+    "Self-Help",
+    "Cooking",
+    "Mystery"
+  ]
+},
+{
+  "title": "Demona's Revenge (Gargoyles, No. 2)",
+  "author": "Francine Hughes",
+  "isbn": "590598848",
+  "type": "reference",
+  "total_copies": 5,
+  "available_copies": 5,
+  "genreNames": [
+    "Historical Fiction",
+    "Cooking",
+    "Romance"
+  ]
+},
+{
+  "title": "Clifford's Sports Day",
+  "author": "Norman Bridwell",
+  "isbn": "590629719",
+  "type": "reference",
+  "total_copies": 6,
+  "available_copies": 6,
+  "genreNames": [
+    "Historical Fiction",
+    "Fantasy",
+    "Biography",
+    "Science Fiction",
+    "Cooking",
+    "Romance",
+    "Mystery"
+  ]
+},
+{
+  "title": "Postmortem (Kay Scarpetta Mysteries (Paperback))",
+  "author": "Patricia Cornwell",
+  "isbn": "671023616",
+  "type": "non_fiction",
+  "total_copies": 14,
+  "available_copies": 14,
+  "genreNames": [
+    "Historical Fiction",
+    "Cooking",
+    "Science Fiction"
+  ]
+},
+{
+  "title": "Deception Point",
+  "author": "Dan Brown",
+  "isbn": "671027387",
+  "type": "non_fiction",
+  "total_copies": 1,
+  "available_copies": 1,
+  "genreNames": [
+    "Thriller",
+    "Biography",
+    "Historical Fiction",
+    "Cooking",
+    "Romance",
+    "Fantasy",
+    "Science Fiction"
+  ]
+},
+{
+  "title": "Tis : A Memoir",
+  "author": "Frank McCourt",
+  "isbn": "684848783",
+  "type": "non_fiction",
+  "total_copies": 11,
+  "available_copies": 11,
+  "genreNames": [
+    "Self-Help",
+    "Cooking",
+    "Romance",
+    "Mystery",
+    "Horror",
+    "Fantasy"
+  ]
+},
+{
+  "title": "Angels &amp; Demons",
+  "author": "Dan Brown",
+  "isbn": "743486226",
+  "type": "reference",
+  "total_copies": 6,
+  "available_copies": 6,
+  "genreNames": [
+    "Self-Help",
+    "Science Fiction",
+    "Thriller",
+    "Romance",
+    "Horror",
+    "Mystery"
+  ]
+},
+{
+  "title": "A Monk Swimming",
+  "author": "Malachy McCourt",
+  "isbn": "786863986",
+  "type": "fiction",
+  "total_copies": 16,
+  "available_copies": 16,
+  "genreNames": [
+    "Cooking",
+    "Historical Fiction",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Self-Help",
+    "Science Fiction",
+    "Romance",
+    "Thriller",
+    "Biography"
+  ]
+},
+{
+  "title": "Crazy Horse",
+  "author": "Mari Sandoz",
+  "isbn": "803251718",
+  "type": "reference",
+  "total_copies": 5,
+  "available_copies": 5,
+  "genreNames": [
+    "Horror"
+  ]
+},
+{
+  "title": "The Silent Cry (William Monk Novels (Paperback))",
+  "author": "Anne Perry",
+  "isbn": "804117934",
+  "type": "reference",
+  "total_copies": 13,
+  "available_copies": 13,
+  "genreNames": [
+    "Self-Help",
+    "Cooking",
+    "Romance",
+    "Thriller",
+    "Science Fiction",
+    "Horror"
+  ]
+},
+{
+  "title": "The Kalahari Typing School for Men (No. 1 Ladies' Detective Agency)",
+  "author": "ALEXANDER MCCALL SMITH",
+  "isbn": "140003180X",
+  "type": "non_fiction",
+  "total_copies": 9,
+  "available_copies": 9,
+  "genreNames": [
+    "Science Fiction",
+    "Romance",
+    "Historical Fiction",
+    "Cooking",
+    "Fantasy",
+    "Thriller"
+  ]
+},
+{
+  "title": "Chicken Soup for the Soul (Chicken Soup for the Soul)",
+  "author": "Jack Canfield",
+  "isbn": "155874262X",
+  "type": "fiction",
+  "total_copies": 18,
+  "available_copies": 18,
+  "genreNames": [
+    "Historical Fiction",
+    "Romance",
+    "Self-Help",
+    "Cooking",
+    "Horror",
+    "Thriller",
+    "Science Fiction",
+    "Biography",
+    "Mystery"
+  ]
+},
+{
+  "title": "Wicked: The Life and Times of the Wicked Witch of the West",
+  "author": "Gregory Maguire",
+  "isbn": "60987103",
+  "type": "reference",
+  "total_copies": 12,
+  "available_copies": 12,
+  "genreNames": [
+    "Historical Fiction",
+    "Romance"
+  ]
+},
+{
+  "title": "Life of Pi",
+  "author": "Yann Martel",
+  "isbn": "151008116",
+  "type": "non_fiction",
+  "total_copies": 20,
+  "available_copies": 20,
+  "genreNames": [
+    "Science Fiction",
+    "Historical Fiction",
+    "Romance",
+    "Horror"
+  ]
+},
+{
+  "title": "A Judgement in Stone",
+  "author": "Ruth Rendell",
+  "isbn": "375704965",
+  "type": "non_fiction",
+  "total_copies": 15,
+  "available_copies": 15,
+  "genreNames": [
+    "Romance",
+    "Horror",
+    "Thriller",
+    "Cooking",
+    "Fantasy",
+    "Historical Fiction",
+    "Self-Help",
+    "Biography",
+    "Science Fiction",
+    "Mystery"
+  ]
+},
+{
+  "title": "Lies and the Lying Liars Who Tell Them: A Fair and Balanced Look at the Right",
+  "author": "Al Franken",
+  "isbn": "525947647",
+  "type": "reference",
+  "total_copies": 19,
+  "available_copies": 19,
+  "genreNames": [
+    "Historical Fiction",
+    "Romance",
+    "Biography",
+    "Horror",
+    "Cooking",
+    "Fantasy",
+    "Thriller",
+    "Science Fiction"
+  ]
+},
+{
+  "title": "Secret History",
+  "author": "DONNA TARTT",
+  "isbn": "804111359",
+  "type": "non_fiction",
+  "total_copies": 15,
+  "available_copies": 15,
+  "genreNames": [
+    "Fantasy",
+    "Horror",
+    "Biography",
+    "Self-Help",
+    "Romance",
+    "Science Fiction",
+    "Historical Fiction",
+    "Thriller"
+  ]
+},
+{
+  "title": "Chicken Soup for the Woman's Soul (Chicken Soup for the Soul Series (Paper))",
+  "author": "Jack Canfield",
+  "isbn": "1558744150",
+  "type": "non_fiction",
+  "total_copies": 13,
+  "available_copies": 13,
+  "genreNames": [
+    "Mystery",
+    "Fantasy",
+    "Cooking",
+    "Thriller",
+    "Horror"
+  ]
+},
+{
+  "title": "Great Expectations (Heinemann Guided Readers)",
+  "author": "John Milne",
+  "isbn": "435272683",
+  "type": "fiction",
+  "total_copies": 20,
+  "available_copies": 20,
+  "genreNames": [
+    "Biography",
+    "Mystery",
+    "Fantasy"
+  ]
+}
+]

@@ -1,0 +1,53 @@
+url : http://5.181.177.3:3952
+test topology : register about 5000 users to the database
+and send requests from the users to get the reservation books and also request the data of the account for each user
+
+
+api used :
+to register the users : /api/v1/user/register
+to request reservations : /api/v1/book/getResrevations
+to get user profile : /api/v1/user/profile
+
+
+
+
+
+test terminal output: 
+
+
+Type     Name                                                                          # reqs      # fails |    Avg     Min     Max    Med |   req/s  failures/s
+--------|----------------------------------------------------------------------------|-------|-------------|-------|-------|-------|-------|--------|-----------
+GET      /api/v1/book/getResrevations                                                   31946 14491(45.36%) | 22223       1  168965  18000 |   46.07       20.90     
+GET      /api/v1/user/profile                                                           31926 14350(44.95%) | 22128       5  172826  18000 |   46.04       20.69     
+POST     /api/v1/user/register                                                           8452 5464(64.65%) |  53651     889  171674  56000 |   12.19        7.88      
+--------|----------------------------------------------------------------------------|-------|-------------|-------|-------|-------|-------|--------|-----------      
+         Aggregated                                                                     72324 34305(47.43%) |  25854       1  172826  22000 |  104.29       49.47     
+
+Response time percentiles (approximated)
+Type     Name                                                                                  50%    66%    75%    80%    90%    95%    98%    99%  99.9% 99.99%   100% # reqs
+--------|--------------------------------------------------------------------------------|--------|------|------|------|------|------|------|------|------|------|------|------
+GET      /api/v1/book/getResrevations                                                        18000  27000  29000  31000  58000  88000 101000 102000 140000 169000 169000  31946
+GET      /api/v1/user/profile                                                                18000  27000  29000  31000  58000  87000 100000 102000 154000 168000 173000  31926
+POST     /api/v1/user/register                                                               56000  69000  76000  83000  94000  96000  98000 125000 131000 172000 172000   8452
+--------|--------------------------------------------------------------------------------|--------|------|------|------|------|------|------|------|------|------|------|------
+         Aggregated                                                                          22000  28000  31000  39000  74000  93000 100000 102000 144000 169000 173000  72324
+
+Error report
+# occurrences      Error
+------------------|---------------------------------------------------------------------------------------------------------------------------------------------      
+147                POST /api/v1/user/register: HTTPError('400 Client Error: Bad Request for url: /api/v1/user/register')
+790                GET /api/v1/user/profile: HTTPError('401 Client Error: Unauthorized for url: /api/v1/user/profile')
+768                GET /api/v1/book/getResrevations: HTTPError('401 Client Error: Unauthorized for url: /api/v1/book/getResrevations')
+3060               GET /api/v1/book/getResrevations: RemoteDisconnected('Remote end closed connection without response')
+2954               GET /api/v1/user/profile: RemoteDisconnected('Remote end closed connection without response')
+369                POST /api/v1/user/register: RemoteDisconnected('Remote end closed connection without response')
+532                GET /api/v1/book/getResrevations: ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None)
+473                GET /api/v1/user/profile: ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None)
+4819               POST /api/v1/user/register: ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F8258CD310>, 'Connection to 5.181.177.3 timed out. (connect timeout=None)')
+10071              GET /api/v1/user/profile: ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F827712C90>, 'Connection to 5.181.177.3 timed out. (connect timeout=None)')
+10066              GET /api/v1/book/getResrevations: ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F81F127F90>, 'Connection to 5.181.177.3 timed out. (connect timeout=None)')
+65                 GET /api/v1/book/getResrevations: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)  
+62                 GET /api/v1/user/profile: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)
+128                POST /api/v1/user/register: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)        
+1                  POST /api/v1/user/register: HTTPError('500 Server Error: Internal Server Error for url: /api/v1/user/register')
+------------------|---------------------------------------------------------------------------------------------------------------------------------------------      

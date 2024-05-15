@@ -1,0 +1,7 @@
+Method,Name,Error,Occurrences
+GET,/api/v1/user/librarian/allUsers?page=1,"ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)",3
+GET,/api/v1/user/librarian/allUsers?page=1,"ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None)",856
+GET,/api/v1/user/librarian/allUsers?page=1,"ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x....>, 'Connection to 5.181.177.3 timed out. (connect timeout=None)')",255
+POST,/api/v1/user/login,"ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x....>, 'Connection to 5.181.177.3 timed out. (connect timeout=None)')",886
+GET,/api/v1/user/librarian/allUsers?page=1,RemoteDisconnected('Remote end closed connection without response'),2175
+POST,/api/v1/user/login,RemoteDisconnected('Remote end closed connection without response'),527
