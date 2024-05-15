@@ -26,7 +26,7 @@ class MyUser(HttpUser):
         }
         
         
-        with open("G:/college data/4th year/2nd term/database/tests/test5/emails_and_passwords.txt", "a") as file:
+        with open("emails_and_passwords.txt", "a") as file:
             
             file.write(f"Email   : {email}\n")
             file.write(f"Password: {password}\n\n")
