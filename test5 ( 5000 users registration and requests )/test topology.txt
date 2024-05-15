@@ -1,4 +1,4 @@
-url : http://5.181.177.3:3952
+
 test topology : register about 5000 users to the database
 and send requests from the users to get the reservation books and also request the data of the account for each user
 
