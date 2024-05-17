@@ -1,0 +1,55 @@
+
+DevTools listening on ws://127.0.0.1:53471/devtools/browser/70783c67-0e4e-4ee1-9777-f7048f1a0a55
+Couldn't find tsconfig.json. tsconfig-paths will be skipped
+
+====================================================================================================
+
+  (Run Starting)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Cypress:        13.9.0                                                                         │
+  │ Browser:        Electron 118 (headless)                                                        │
+  │ Node Version:   v20.10.0 (C:\Program Files\nodejs\node.exe)                                    │
+  │ Specs:          1 found (mytest1.cy.js)                                                        │
+  │ Searched:       cypress/e2e/**/*.cy.{js,jsx,ts,tsx}                                            │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+Remove output folder G:\college data\4th year\2nd term\database\kamal\Frontend-main2\cypress\reports\html
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Running:  mytest1.cy.js                                                                   (1 of 1)
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+
+
+  Login Test
+    √ should login with valid credentials (110097ms)
+
+
+  1 passing (2m)
+
+[mochawesome] Report JSON saved to G:\college data\4th year\2nd term\database\kamal\Frontend-main2\cypress\reports\html\.jsons\mochawesome.json
+
+
+  (Results)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Tests:        1                                                                                │
+  │ Passing:      1                                                                                │
+  │ Failing:      0                                                                                │
+  │ Pending:      0                                                                                │
+  │ Skipped:      0                                                                                │
+  │ Screenshots:  0                                                                                │
+  │ Video:        false                                                                            │
+  │ Duration:     1 minute, 54 seconds                                                             │
+  │ Spec Ran:     mytest1.cy.js                                                                    │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+Start generate report process
+Read and merge jsons from "G:\college data\4th year\2nd term\database\kamal\Frontend-main2\cypress\reports\html\.jsons"
+Copy media folder from "G:\college data\4th year\2nd term\database\kamal\Frontend-main2\cypress\screenshots" to "G:\college data\4th year\2nd term\database\kamal\Frontend-main2\cypress\reports\html\screenshots"
+Enhance report
+Create HTML report
+HTML report successfully created!
