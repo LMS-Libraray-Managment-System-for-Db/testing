@@ -1,4 +1,4 @@
-<h1>frontend test folder ( test 4,5,6 )</h1>
+<h1>frontend test folder</h1>
         <p>the first folder in the repository contains the frontend test and the folder contains :</p>
         <ul>
             <li><strong>test output :</strong> a file contains the terminal output of the test.</li>
