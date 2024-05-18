@@ -51,8 +51,8 @@
  <h3>Viewing the Reports</h3>
         <ul>
             <li><strong>Power BI Report:</strong> Open the <code>.pbix</code> file in Power BI Desktop to view the detailed test report.</li>
-            <li><strong>Test terminal text file:</strong> file contains the raw output of the test run, which can be viewed in any text editor.</li>
-            <li><strong>test final report PDF:</strong> a PDF file contains the power bi report in PDF format.</li>
+            <li><strong>Test terminal text file:</strong> file contains the raw output of the test run, which can be viewed in any text editor <code>test topology.txt</code>.</li>
+            <li><strong>test final report PDF:</strong> a PDF file contains the power bi report in PDF format. <code>test# final report.pdf</code></li>
            
        
 
